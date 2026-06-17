@@ -1,0 +1,99 @@
+Agile:-  https://dev.azure.com/Revature-Technology/Technology-Engineering/_git/QC-Questions?path=/units/agile-for-developers.md&_a=preview&anchor=required-questions
+
+⦁	What is the difference between Waterfall and Agile methodologies? Explain the benefits and drawbacks of each -2
+⦁	Describe the Scrum ceremonies ?What is the purpose of the sprint retrospective? 
+⦁	What is the role of a "Scrum master" in a project? What about the "Product owner"?2
+⦁	What is a "user story"?How does story pointing work?
+
+GIT:-
+
+⦁	Can you talk about  the git workflow for contributing code to a central repository? 
+⦁	Why we use the git init?
+⦁	What is branch?why we need it?how can you create a new branch?1
+⦁	How would you prevent a file from being tracked by git? 
+⦁	How would you go back in your commit history if you make a mistake? 
+⦁	What is a merge conflict? How do you prevent these and resolve if it happens?0
+⦁	Why is creating many small commits generally better than one large commit? 
+
+Python:-
+Core:-
+Why do we call Python a dynamically typed language? 0
+⦁	What are flow control statements in Python? Break and Continue Statements: break, continue-0
+⦁	Talk about string in python. How to create a multiline string? 
+⦁	What is the difference between list , tuple and set ?-1
+⦁	When you will choose list , tuple ,set and dictionary ?
+
+OOP:-
+What are constructor in python ? How do you create a constructor ?0
+What is the purpose of the super()?What happen if you call super() inside __init__?
+What is polymorphism? What are the different types we have ? Does python supports Method overlloading ?
+What happens if you try to overload a method? If you want to achive overloading how you can do that ?
+How we can achive encapsulation in python? Difference between private and protected ?
+How we can achive abstarction in Python?
+
+Exception:-
+What are exptions ?how do you handle exception ?1
+Explain with a scenario when you will be using finally block?how it will work?
+How can you throw the exception explicitly ?
+Create a custom exception ?
+What is the purpose of with statement in python ?
+
+
+File handling 
+To read/write a file what are the method we have ?read() vs readline() vs readlines() 
+What are the different mode we have to open a file?
+
+PIP
+Why we use PIP? 
+To install/upgrade/uninstall a pkg how we can use PIP?
+How you can rename or delete a file in Python?
+
+Json:
+How do u convert Python Dictionary to a JSON string 
+How you will convert Python to Dictionary?
+ 
+Regex(re)
+⦁	Count occurrences of a word Python
+   text = "python is good. python is easy."
+⦁	Remove extra spaces 
+  "Hello     World     Python"
+
+⦁	Difference between match(), search(), and findall() 1
+
+Logging
+
+What are the diufferent levels of Logging in Python ?0
+How do you log messages to a file instead of the console? 
+
+
+Iterator 
+
+What is an iterator in Python?
+⦁	Difference between iterable and iterator. 
+⦁	Which methods must an iterator implement? 
+Expected concepts:
+⦁	__iter__() 
+⦁	__next__()
+
+What is the output for this code ? Explain 
+nums = [1, 2, 3]
+it1 = iter(nums)
+it2 = iter(nums)
+print(next(it1))
+print(next(it1))
+print(next(it2))
+
+Pandas 
+What is the difference between a Series and a DataFrame?
+Show two different ways to create a pandas DataFrame
+How do you create a DataFrame from a dictionary?
+Explain how to read a CSV file into a Pandas DataFrame.
+What methods are available to handle missing values in a DataFrame?
+
+List Comprehension ,
+OOP
+Exception 
+Pandas
+Decorator
+Map
+Lambda-0
